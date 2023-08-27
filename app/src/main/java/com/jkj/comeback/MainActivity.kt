@@ -13,7 +13,7 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        binding.tvHello.text = "second edit"
+        binding.tvHello.text = "3 edit"
 
     }
 }
