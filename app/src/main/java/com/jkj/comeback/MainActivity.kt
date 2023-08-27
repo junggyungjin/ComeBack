@@ -13,7 +13,7 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        binding.tvHello.text = "edit!!"
+        binding.tvHello.text = "edit!!!!!!!!"
 
     }
 }
